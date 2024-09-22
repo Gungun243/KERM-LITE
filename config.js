@@ -19,7 +19,7 @@ module.exports = {
    SESSION_ID: process.env.SESSION_ID || "", // Put your session
    HANDLERS: process.env.HANDLER === "false" || process.env.HANDLER === "null" ? "^" : "[.]",
    BOT_INFO: process.env.BOT_INFO || "Kɢᴛᴇᴄʜ;KᴇʀᴍLɪᴛᴇ⚡️", // YourName;BotName;Image/VideoLink
-   SUDO: process.env.SUDO || "237656520674",
+   SUDO: process.env.SUDO || "242067274660",
    PRESENCE: process.env.PRESENCE || "available", // "unavailable", "available", "composing", "recording", "paused"
    CAPTION: process.env.CAPTION || "© Kᴇʀᴍ ᴍᴅ",
    TIME_ZONE: process.env.TIME_ZONE || "Africa/Lagos",
